@@ -11,6 +11,6 @@ Getting to use Jones Yu's class material
 
 Finalize UI design (Pat)
 Start DB design (James)
-
+Start a repository on BitBucket and Pat will learn Android basics
 
 
