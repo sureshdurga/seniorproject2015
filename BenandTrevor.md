@@ -19,3 +19,18 @@ service
 This is what they are going to work this week.
 Trevor will work on the UI
 Ben will work on the refractoring.
+
+# 5/20/2015
+
+Last Sprint:
+Nodesdk v0.1.0 is nearly done, uses node error handling practices, fully tested, code coverage, etc. Really awesome work here.
+UI is up and running, but needs more polish, and focus on UX. Good work, but will need more moving forward.
+
+POA:
+Add polish to UI, begin spec-ing out new features
+Work on c# sdk, begin spec-ing out new c# sdk features
+
+This is what they are going to work on this week:
+Trevor will continue to work on the UI.
+Ben will focus on new features and c# sdk.
+
