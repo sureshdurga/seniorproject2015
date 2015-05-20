@@ -9,4 +9,18 @@ Proposal:
 ##POA:
 
 1. Get environment set up on Android
-2. Basic outline (wireframe) for the app
+2. Basic outline (wireframe) for the app 
+
+#5/20/2015
+
+##POA from last week?
+
+1. Android env has been set up
+2. Wireframe for the app has ben set up ( has both search for Penny Saver and also to create Ads.
+3. Email authentication will be included
+
+## POA
+
+1. Perfect App and work on the different pages on the Android.
+2. Work on the SRS
+
