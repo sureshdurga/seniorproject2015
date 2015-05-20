@@ -14,4 +14,14 @@
  2. LEanring to use Github for source control
  3. Looking into voice control software to implement
  
+ #5/20/2015
+ ## POA completing?
+ 
+ 1. FInished setting up environment
+ 2. Github has been set up
+ 3. Sphinx library will be used for voice control
+ 
+ ##POA?
+ 
+  Learning Sphnix only for speech recognition and taking back using free TTS
  
