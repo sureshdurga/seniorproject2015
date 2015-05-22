@@ -12,4 +12,17 @@
 2. Get a basis for reaction to the beats/min data
 3. Get a binary file management for GIT
 
+#5/22/2015
+
+#POA done?
+
+1. Adam has been able to count beats/min
+2. Basis will be worked upon this week.
+3. GIT has been set upon
+
+##POA?
+
+1. Refine the beats/minute, make it more accurate
+2. REactionary element will be worked upon
+3. SRS will be worked on.
 

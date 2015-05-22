@@ -1,18 +1,29 @@
 #5/15/2015
 
 ##Proposal:
-
 5/5
-
 1. Simple game play with ads
 2. Time bound levels
 3. Ads will be breaks in gameplay
 4. Research is being done about AdMob
 5. Options are being considered about ad display
 
-
 ##POA:
 
 1. Flow of screens planned out
 2. Basic artwork for spaceship
 3. Unity will be downloaded and studied/ researched
+
+
+#5/22/2015
+##POA done?
+
+1. Flow of screen layout done
+2. Basic artowrk is done and so is the beckground...
+3. Unity downloaded....and the spaceship has been built.
+
+##POA
+
+1. Working on Asteroid art and implementation in Unity
+2. GIT should be set up
+3. Work on SRS
