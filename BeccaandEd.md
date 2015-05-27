@@ -24,3 +24,15 @@ Proposal:
 1. Perfect App and work on the different pages on the Android.
 2. Work on the SRS
 
+#5/27/2015
+
+## POA done?
+1. Different pages on the android is being worked upon
+2. SRS done?
+
+##POA?
+1. Make rest of the pages for the app.
+2. Make logo
+3. Come up with a name
+
+

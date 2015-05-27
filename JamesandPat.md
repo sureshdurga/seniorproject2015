@@ -28,5 +28,15 @@ Start a repository on BitBucket and Pat will learn Android basics
 1. STart coding UI
 2. Start working with FB
 
+#5/27/2015
+
+## POA done?
+1. UI work has been started and LOgin and Register pages are done. 
+2. Parse DB has been set up.
+3. FB work is still a work in progress.
+
+## POA
+1. WOrking on the UI2. 
+2. Figure out FB bug.
 
 

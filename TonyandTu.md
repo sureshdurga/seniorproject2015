@@ -24,4 +24,15 @@
  ##POA?
  
   Learning Sphnix only for speech recognition and taking back using free TTS
+  
+  #5/27/2015
+  
+  ## POA done??
+   Sphinx work has started
+   
+  ##POA?
+   
+   1. Sphinx work continues
+   2. Compiling in terminal
+   3. Figure out JAR files
  

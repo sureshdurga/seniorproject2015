@@ -26,3 +26,16 @@
 2. REactionary element will be worked upon
 3. SRS will be worked on.
 
+#5/27/2015
+
+##POA done?
+1. Made negative progress.
+2. Some preprocessign is necessary
+3. SRS is a WIP
+
+##POA?
+
+1. Make the preprocessing work 
+2. Some thing need to be reworked
+
+

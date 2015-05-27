@@ -26,3 +26,18 @@
 1.Finish putting the game on Android ( touch screen controls)
 2. MOre work on the game play
 3. SRS will be completed.
+
+#5/27/2015
+
+##POA done?
+1. Game is on Android, but is a WIP
+2. No work on game play
+3. Sound was added
+3. SRS is partially done?
+
+##POA?
+1. Make 4 charaters that move
+2. Fix the resolution on the phone
+3. Change the way moving works
+4. Start work on fighting system
+

@@ -26,11 +26,21 @@ Last Sprint:
 Nodesdk v0.1.0 is nearly done, uses node error handling practices, fully tested, code coverage, etc. Really awesome work here.
 UI is up and running, but needs more polish, and focus on UX. Good work, but will need more moving forward.
 
-POA:
+## POA:
 Add polish to UI, begin spec-ing out new features
 Work on c# sdk, begin spec-ing out new c# sdk features
 
-This is what they are going to work on this week:
+## This is what they are going to work on this week:
 Trevor will continue to work on the UI.
 Ben will focus on new features and c# sdk.
 
+#5/27/2015
+
+##POA done?
+1. Not a lot of UI work done.
+2. C# SDk is being worked upon, more work needs to be done.
+
+## POA?
+
+1. UI work will continue
+2. Struture will be worked upon
