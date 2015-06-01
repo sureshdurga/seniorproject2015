@@ -15,3 +15,18 @@ Proposal:
 3. Begin work on RFID input parsing ( Artem will work on the Interface )
 4. Finish SRS
 
+#06/01/2015
+
+##POA done?
+
+1. Never mentioned to Charlie about server hence nothing done
+2. Reader problems (instalation problems)
+3. Something needs to be written for a platform independent OS
+
+
+##POA?
+
+1. Read documentation for Java API
+2. Maybe the documentation for the Android API from the manufacturer would work?
+3. Look at Open Source work previously done.
+

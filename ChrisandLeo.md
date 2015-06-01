@@ -27,3 +27,15 @@
 1. Working on Asteroid art and implementation in Unity
 2. GIT should be set up
 3. Work on SRS
+
+#6/1/2015
+
+##POA done?
+All work from last week is done.
+
+##POA?
+1. Ship movement needs to be tweaked
+2. Asteroids need to be destroyed at the bottom of the screen
+3. Touch commands needs to be learned.
+4. Formatting SDS will also start this week.
+

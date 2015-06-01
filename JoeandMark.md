@@ -30,3 +30,14 @@
 1. Research on Static meshes this is the plan for the week.
 2. Finish Step 4 form proposal.
 3. More research on the L Systems
+
+#5/27/2015
+
+##POA done?
+1. Static meshes will requre a custom file format
+2. L-systems and its place in the projects has been set up
+3. Base demo is set up
+
+##POA?
+1. MArk will try and implemt a 2-D deterministic model using the L Systems
+2. Joe will be researching how to translate a tree from the L systems to a Mesh 
