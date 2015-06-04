@@ -35,4 +35,19 @@ Proposal:
 2. Make logo
 3. Come up with a name
 
+#6/3/2015
+
+##POA done?
+
+1. Basic outline for all pages are done.
+2. Logo made
+3. Name will be "Classified ++"
+
+##POA?
+
+1. ATleast one page will be fully desined with logo and design
+2. Work on the logo
+3. Make mock back end
+
+
 

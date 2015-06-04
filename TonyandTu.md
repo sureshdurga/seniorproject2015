@@ -35,4 +35,21 @@
    1. Sphinx work continues
    2. Compiling in terminal
    3. Figure out JAR files
+   
+  #6/3/2015
+  
+  ##POA done?
+  
+  1. JAR files are found
+  2. Addign words to dictionaries was figured out
+  3. Compile in terminal is complete
+  4. Sphinx is being worked on successfully!!
+  
+  ##POA?
+  
+  1. Grammar file work shall commence
+  2. Java commands will be played with
+  
+  
+  
  

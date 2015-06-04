@@ -36,7 +36,21 @@ Start a repository on BitBucket and Pat will learn Android basics
 3. FB work is still a work in progress.
 
 ## POA
-1. WOrking on the UI2. 
+1. WOrking on the UI. 
 2. Figure out FB bug.
+
+#6/3/2015
+
+##POA done?
+
+1. Login is working for FB
+2. UI work is also ongoing
+
+##POA?
+
+1. MOre UI work.
+
+
+
 
 

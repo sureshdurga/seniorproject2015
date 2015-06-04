@@ -41,3 +41,14 @@
 ##POA?
 1. MArk will try and implemt a 2-D deterministic model using the L Systems
 2. Joe will be researching how to translate a tree from the L systems to a Mesh 
+
+#6/3/2015
+
+##POA done?
+1. 2D modelling is ongoing
+2. Drawing function is also being worked upon
+
+##POA?
+1. Have 2D drawing function done
+2. Config should be done
+

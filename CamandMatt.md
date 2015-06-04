@@ -51,4 +51,25 @@ Bryan officially joins team
 2. Matt will have the development set up and buildig of framework should commence
 3. GIT wil be cleaned up
 4. Layout the class system
-5. Cam will be working on gettting live Metadata from the DB and analyze that
+5. Cam will be working on getting live Metadata from the DB and analyze that
+
+#6/3/2015
+
+##POA done?
+
+1. Bryan is caught up
+2. Matt did stuff
+3. GIT is cleaned
+4. Something that resembles a class sytem was made
+5. Live Metadata is not possible, dynamic objects will be used.
+
+##POA?
+
+1. Bryan will take over Android development and will get strted this week.
+2. MAtt will work on the dynamic objects on the backend side of things
+3. Cam will work on the Windows 8 app
+4. Windows 8 app will be the Midterm Presentation
+
+
+
+

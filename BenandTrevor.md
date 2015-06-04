@@ -43,4 +43,10 @@ Ben will focus on new features and c# sdk.
 ## POA?
 
 1. UI work will continue
-2. Struture will be worked upon
+2. Structure will be worked upon
+
+#6/3/2015
+
+Progress is happenning, no details were given...very very shady!!!
+
+

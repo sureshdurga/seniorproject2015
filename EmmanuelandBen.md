@@ -41,3 +41,20 @@
 3. Change the way moving works
 4. Start work on fighting system
 
+#6/3/2015
+
+##POA done?
+
+1. 4 charaters are mvoing at the same time so that is notworking that way it needs to
+2. Resolution on the phone is better
+3. MOVING STILL NEEDS WORK
+4. No work on Fighting yet
+
+##POA?
+
+1. Make charaters move correctly
+2. Hopefully start on the fighting system
+
+
+
+
