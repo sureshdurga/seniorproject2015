@@ -39,3 +39,17 @@ All work from last week is done.
 3. Touch commands needs to be learned.
 4. Formatting SDS will also start this week.
 
+#6/5/2015
+
+##POA done?
+
+All work planned for the past week is done!
+
+##POA?
+
+1. Unity problems need to be resolved especially with GIT
+2. Collision work will be done.
+3. Restart the game when the asteroid gets hit.
+4. Create a start game screen
+5. Reloading the ship with a new render needs to be completed.
+

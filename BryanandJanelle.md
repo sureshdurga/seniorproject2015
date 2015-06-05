@@ -30,5 +30,13 @@
 3. Tutorial for unreal
 4. SRS will be completed.
 
+#06/05/2015
 
+##POA done?
+All work done from 2 weeks ago
 
+##POA?
+Getting ready for Midterm presentation 
+--basic terrain design
+--basic path fnding
+--basic movements

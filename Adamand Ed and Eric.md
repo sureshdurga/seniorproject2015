@@ -27,3 +27,16 @@
 2. Ed will work on syncing camera to gallery and also work on the GPS
 3. Work on the SRS
 4. Eric will start collecting pictures with good resolution, starting with 20-50
+
+#6/5/2015
+
+##POA done?
+1. GPS work is not yet done but there are App problems
+2. PIctures are grabbed and put in a seperate directory but app crashes
+3. Open CV work is ongoing and successful
+4. Midterm presentation work is being finalized
+
+##POA?
+1. Adam will be working on the server side code to accept image and do some manipulation
+2. Ed is going to resolve app problem and then work on the picture processing
+3. Connect DB to server will be done by Eric
