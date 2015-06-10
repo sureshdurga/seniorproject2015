@@ -49,4 +49,18 @@ Ben will focus on new features and c# sdk.
 
 Progress is happenning, no details were given...very very shady!!!
 
+#6/10/2015
+
+1. Node SDK, C# SDk and backend API for the service is complete
+2. UI work is ongoing
+3. Some testing was done for backend API
+4. Logs are avilable 
+
+##POA?
+1. lots of Sleep
+2. UI work 
+
+
+
+
 

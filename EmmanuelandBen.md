@@ -55,6 +55,15 @@
 1. Make charaters move correctly
 2. Hopefully start on the fighting system
 
+#6/10/2015
+
+##POA done?
+Half of work done
+
+##POA?
+1. Tweak architecture
+2. Prepare for midterms
+
 
 
 

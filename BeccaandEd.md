@@ -49,5 +49,17 @@ Proposal:
 2. Work on the logo
 3. Make mock back end
 
+#6/10/2015
+
+##POA done?
+1. Page design done
+2. Logo has been redone
+3. back end work has started
+
+##POA?
+1. Parse DB will be used and worked on
+2. DB struture needs to be determined
+
+
 
 

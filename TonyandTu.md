@@ -50,6 +50,16 @@
   1. Grammar file work shall commence
   2. Java commands will be played with
   
+  #6/10/2015
+  
+  ##POA done??
+  
+  1. Basic grammar file is done
+  2. Commands have bee selected and working with terminal commands with Java
+  
+  ##POA?
+  
+  Break this week in prep for Midterm
   
   
  

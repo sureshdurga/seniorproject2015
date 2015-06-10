@@ -30,3 +30,7 @@ Proposal:
 2. Maybe the documentation for the Android API from the manufacturer would work?
 3. Look at Open Source work previously done.
 
+#06/05/2015
+
+Not much work done this week.
+

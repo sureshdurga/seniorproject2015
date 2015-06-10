@@ -42,7 +42,6 @@ All work from last week is done.
 #6/5/2015
 
 ##POA done?
-
 All work planned for the past week is done!
 
 ##POA?
@@ -52,4 +51,14 @@ All work planned for the past week is done!
 3. Restart the game when the asteroid gets hit.
 4. Create a start game screen
 5. Reloading the ship with a new render needs to be completed.
+
+#6/10/2015
+
+##POA done?
+All work done that was planned for....
+
+##POA?
+1. Optimize asteroid and star spawning
+2. Randomize size of stars and asteroids
+
 

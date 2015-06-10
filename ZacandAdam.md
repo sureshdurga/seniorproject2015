@@ -30,12 +30,20 @@
 
 ##POA done?
 1. Made negative progress.
-2. Some preprocessign is necessary
+2. Some preprocessing is necessary
 3. SRS is a WIP
 
 ##POA?
 
 1. Make the preprocessing work 
 2. Some thing need to be reworked
+
+#6/3/2015
+
+#Very very late!!!
+
+#POA?
+
+Adam/Zac are going to start working on assets that work to the music (BPM)
 
 

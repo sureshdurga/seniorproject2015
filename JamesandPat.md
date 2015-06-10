@@ -50,6 +50,14 @@ Start a repository on BitBucket and Pat will learn Android basics
 
 1. MOre UI work.
 
+#6/10/2015
+1. Lots of UI work done
+2. FB itegraton is ound
+
+##POA?
+
+PArsing work will commence
+
 
 
 
