@@ -52,3 +52,13 @@
 1. Have 2D drawing function done
 2. Config should be done
 
+#6/10/2015
+
+##POA done?
+Project has falled behind, things were not accomplished as planned.
+
+##POA?
+
+1. Have 2D drawing function done
+2. Config should be done
+
