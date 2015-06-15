@@ -34,3 +34,8 @@ Proposal:
 
 Not much work done this week.
 
+#Midterm Presentation
+#6/15/2015
+
+AWOL - Grade #F
+

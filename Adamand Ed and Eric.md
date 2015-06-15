@@ -50,3 +50,12 @@ All task set out to do for last week are complete.
 ##POA?
 Finishing the demo for Monday
 
+#Midterm Presentation
+#6/15/2015
+
+Great start even though you had technical difficulties.
+This makes sense and it looks like you are on track to completing.
+Everything looks good so far.
+Looking forward to your final product.
+#A
+

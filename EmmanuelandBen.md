@@ -64,6 +64,14 @@ Half of work done
 1. Tweak architecture
 2. Prepare for midterms
 
+#Midterm Presentation
+#6/15/2015
+
+First glance, looks like you have not done anything yet, but since everything is going to change, I am hoping that you will be able to complete a lot more.
+For this presentation and the amount of work shown I can give you a #C
+
+
+
 
 
 

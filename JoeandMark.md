@@ -62,3 +62,13 @@ Project has falled behind, things were not accomplished as planned.
 1. Have 2D drawing function done
 2. Config should be done
 
+#Midterm Presentation
+#6/15/2015
+
+Looking good Joe, Mark is wearing Jeans ....BOOOOO
+You have balanced out the grade for business causal.
+This is brillaint work you guys....very very impressive. 
+Very good explanation of what your project does, this is what is impressive, being able to talk about what you are doing and going to do.
+#A
+
+

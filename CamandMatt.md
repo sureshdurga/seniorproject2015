@@ -81,6 +81,16 @@ All work planned was completed.
 2. Matt will continue working on backend
 3. Bryan will work on Andorid development
 
+#Midterm Presentation
+#6/15/2015
+
+No talk about what your project is, you keep talking about refactoring...it makes no sense.
+A presentation that is demo starts with what your project IS...
+The title is not even fully shown, it just says SHOULD...where is the I?
+Did you guys test this before showing us? Apparently not.
+This was a bad presnetation overall because it was unclear what you did for a long time until Joe asked the question.
+
+#C-
 
 
 
