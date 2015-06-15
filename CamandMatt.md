@@ -65,10 +65,21 @@ Bryan officially joins team
 
 ##POA?
 
-1. Bryan will take over Android development and will get strted this week.
+1. Bryan will take over Android development and will get started this week.
 2. MAtt will work on the dynamic objects on the backend side of things
 3. Cam will work on the Windows 8 app
 4. Windows 8 app will be the Midterm Presentation
+
+#6/10/2015
+
+##POA done?
+
+All work planned was completed.
+
+##POA?
+1. Cam will continue to work on Windows App
+2. Matt will continue working on backend
+3. Bryan will work on Andorid development
 
 
 

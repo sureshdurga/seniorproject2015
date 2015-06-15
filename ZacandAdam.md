@@ -46,4 +46,26 @@
 
 Adam/Zac are going to start working on assets that work to the music (BPM)
 
+#6/10/2015
+
+##POA done?
+
+1. Work is being done to create assets.
+2. Event dispatcher can now count
+
+##POA?
+
+1. Library in Phython to handle beats/minute 
+2. Adam will work on Midterm presentation
+
+#Midterm Presentation
+#6/15/2015
+
+Not bad at all guys, the miscis is horrible but this looks like the basics are done. 
+I am not able to understand the beat because you did not explain your project in the beginning.
+You need to get yur slaes pitch for the project right. The animations work and that is more important rather than them being static.
+Based on what you have shown today I have hope that the game will be functional, #A-
+
+
+
 

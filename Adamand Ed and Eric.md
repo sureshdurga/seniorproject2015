@@ -40,3 +40,13 @@
 1. Adam will be working on the server side code to accept image and do some manipulation
 2. Ed is going to resolve app problem and then work on the picture processing
 3. Connect DB to server will be done by Eric
+
+#06/12/2015
+
+##POA done?
+
+All task set out to do for last week are complete.
+
+##POA?
+Finishing the demo for Monday
+
