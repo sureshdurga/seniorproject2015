@@ -58,6 +58,15 @@ Start a repository on BitBucket and Pat will learn Android basics
 
 PArsing work will commence
 
+#Midterm Presentation
+#6/15/2015
+
+Good explanaton of what your project does.
+This looks good, it looks clean and easy to understand.
+Love the demo, exactly what you said you were going to show. 
+Good work you guys.
+#A
+
 
 
 

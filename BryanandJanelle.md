@@ -54,3 +54,10 @@ Getting ready for Midterm presentation
 1. Demo prep
 2. Terai work should be done
 3. Real time path finding work will commence.
+
+#Midterm Presentation
+#6/15/2015
+
+This was a good demo, it was nice to see everything that you have told me actually coming to life.
+The demo made sense.
+#A

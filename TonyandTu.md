@@ -61,5 +61,12 @@
   
   Break this week in prep for Midterm
   
+  #Midterm Presentation
+  #6/15/2015
   
+  Good explanation of what your porject does.
+  Good demo, it works, BRILLIANT
+  Ok, THIS is what I call a demo.
+  #A+
+
  

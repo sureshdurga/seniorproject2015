@@ -60,6 +60,13 @@ Proposal:
 1. Parse DB will be used and worked on
 2. DB struture needs to be determined
 
+#Midterm Presentation
+#6/15/2015
+
+Good explanation of what the project does, Becca, you need to be more confident especially because your project is awesome.
+Did you guys do a test demo before class? That would have helped you know that it is crashing.
+Based on todays presentations I would say #B+
+
 
 
 

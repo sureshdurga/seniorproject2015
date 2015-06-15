@@ -60,6 +60,17 @@ Progress is happenning, no details were given...very very shady!!!
 1. lots of Sleep
 2. UI work 
 
+#Midterm Presentation
+#6/15/2015
+
+I like how clean the interface looks. 
+Trevor is wearing a FB T-shirt, this is NOT business casual.
+The demo itself was not well thought through, you know what you are talking about, but you need to make it interesting to your audience.
+This is a great tool for developers, you need to et your sales pitch right.
+#B+
+
+
+
 
 
 

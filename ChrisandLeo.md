@@ -61,4 +61,9 @@ All work done that was planned for....
 1. Optimize asteroid and star spawning
 2. Randomize size of stars and asteroids
 
+#Midterm Presentation
+#6/15/2015
+
+Good job you guys and you look good, like you are doing an aweosme presentation.
+This is exactly where you wanted to be for the midterm and you are here.
 
