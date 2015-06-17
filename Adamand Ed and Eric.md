@@ -59,3 +59,6 @@ Everything looks good so far.
 Looking forward to your final product.
 #A
 
+#6/17/2015
+No meeting today because of lack of Zac.... F
+

@@ -67,6 +67,18 @@ Good explanation of what the project does, Becca, you need to be more confident 
 Did you guys do a test demo before class? That would have helped you know that it is crashing.
 Based on todays presentations I would say #B+
 
+#6/17/2015
+
+##POA done?
+ 1. Parse will be used and is being worked on
+ 2. DB structure has been determined.
+ 
+##POA?
+
+1. Becca is going to work on updating the pages to match the DB schema
+2. Ed will work on the DB calls and be able to pull ads
+ 
+ 
 
 
 

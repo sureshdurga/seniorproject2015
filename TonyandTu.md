@@ -68,5 +68,14 @@
   Good demo, it works, BRILLIANT
   Ok, THIS is what I call a demo.
   #A+
+  
+  #6/17/2015
+  
+  ##POA?
+  
+  1. Documentation for the project
+  2. Make commands more intuitive
+  
+  
 
  

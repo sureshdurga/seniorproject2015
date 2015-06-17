@@ -67,6 +67,16 @@ Love the demo, exactly what you said you were going to show.
 Good work you guys.
 #A
 
+##6/17/2015
+
+Parsing is complete.
+
+##POA?
+
+1. Pat is working on Twitter integration
+2. James is working on the picture for FB
+3. James is going to work on YouTube.
+
 
 
 

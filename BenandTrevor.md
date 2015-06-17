@@ -69,7 +69,13 @@ The demo itself was not well thought through, you know what you are talking abou
 This is a great tool for developers, you need to et your sales pitch right.
 #B+
 
+#6/17/2015
 
+UI work has been done, not complete but significant.
+
+##POA?
+
+Nothing....
 
 
 

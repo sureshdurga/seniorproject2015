@@ -92,5 +92,18 @@ This was a bad presnetation overall because it was unclear what you did for a lo
 
 #C-
 
+6/17/2015
+##POA done?
+
+Everything planned is going well, both apps are being worked upon.
+
+##POA?
+
+1. Cam will be working on Android and so will Bryan
+2. Matt will be working on the refactoring
+3. Cam will be working on Windows App for saving data and lowering the number of web requests.
+
+
+
 
 

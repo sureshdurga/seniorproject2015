@@ -70,8 +70,15 @@ Half of work done
 First glance, looks like you have not done anything yet, but since everything is going to change, I am hoping that you will be able to complete a lot more.
 For this presentation and the amount of work shown I can give you a #C
 
+#6/17/2015
 
+##POA done?
 
+Architectture has been tweaked? Ongoing process.
+
+##POA?
+1. Ben is going to continue workig on the architecture
+2. Emmanuel is going to work on the main menu
 
 
 
