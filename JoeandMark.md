@@ -71,4 +71,16 @@ This is brillaint work you guys....very very impressive.
 Very good explanation of what your project does, this is what is impressive, being able to talk about what you are doing and going to do.
 #A
 
+#6/17/2015
+
+## POA done?
+2D is done and so is the config.
+
+##POA?
+1. need to add randomization to the 2D model
+2. 2D needs to become a 3D model
+
+
+
+
 
