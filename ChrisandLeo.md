@@ -66,4 +66,20 @@ All work done that was planned for....
 
 Good job you guys and you look good, like you are doing an aweosme presentation.
 This is exactly where you wanted to be for the midterm and you are here.
+#A
+
+#6/19/2015
+
+##POA done?
+
+Stars and asteroids are being generated randomly in size
+
+##POA?
+
+1. Fit the asteroids and stars in the limits if the phone size, not wasting processing power
+2. Game will act differently depending on the phone screen size
+3. Remove rigid body and adding force
+4. Ad work will commence
+
+
 

@@ -46,7 +46,7 @@ Getting ready for Midterm presentation
 ##POA done?
 
 1. working on midterm presentation
-2. Working with unreal is also going on, GIT is causing trouble and so perforce might be the way to going
+2. Working with unreal is also going on, GIT is causing trouble and so Perforce might be the way to going
 3. Real time path finding is being worked on midterm presentation
 4. A* algorithm is being studied
 

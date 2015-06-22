@@ -66,6 +66,8 @@ I am not able to understand the beat because you did not explain your project in
 You need to get yur slaes pitch for the project right. The animations work and that is more important rather than them being static.
 Based on what you have shown today I have hope that the game will be functional, #A-
 
+#6/17/2015
+No meeting today because of lack of Zac.... F
 
 
 

@@ -59,6 +59,14 @@ Everything looks good so far.
 Looking forward to your final product.
 #A
 
-#6/17/2015
-No meeting today because of lack of Zac.... F
+#6/19/2015
+
+##POA ?
+1. Picture quality will be improved.
+2. Next button needs to appear after upload
+3. Point on the picture work will commence
+4. Open CV preprocessing algorith work will also commence
+5. Beastiry list view will be worked on
+6. Eric will work on the structure of the DB
+
 
