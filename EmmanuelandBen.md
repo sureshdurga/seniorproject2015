@@ -80,5 +80,17 @@ Architectture has been tweaked? Ongoing process.
 1. Ben is going to continue workig on the architecture
 2. Emmanuel is going to work on the main menu
 
+#6/24/2015
+
+##POA done?
+All work completed that they set out to done
+
+##POA ?
+
+1. Adding combat
+2. Stats need to be added to the screens
+3. Highlighting needs to be done for the player at hand
+
+
 
 

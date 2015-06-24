@@ -69,5 +69,17 @@ Based on what you have shown today I have hope that the game will be functional,
 #6/17/2015
 No meeting today because of lack of Zac.... F
 
+#6/24/2015
+
+##POA done?
+
+Adam made some cube that is supposed to be cool, it is called a cube tube that does not curve
+Zac has been writing code  where Phyton is being converted to C 
+
+##POA?
+
+1. Adam will make a model for AI
+2. Zac will work on content
+
 
 

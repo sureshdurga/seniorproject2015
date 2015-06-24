@@ -103,7 +103,14 @@ Everything planned is going well, both apps are being worked upon.
 2. Matt will be working on the refactoring
 3. Cam will be working on Windows App for saving data and lowering the number of web requests.
 
+#6/24/2015
 
+##POA done?
+Work is being done on everyting decided last week.
 
-
+##POA?
+1. Window App should be fully done.
+2. Implementing adding friends who are non-subscribers will be worked on
+3. Android should be done and functional by Bryan 
+4. Matt will be wotking on Geo location
 

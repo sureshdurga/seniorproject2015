@@ -57,6 +57,7 @@ Progress is happenning, no details were given...very very shady!!!
 4. Logs are avilable 
 
 ##POA?
+
 1. lots of Sleep
 2. UI work 
 
@@ -76,6 +77,16 @@ UI work has been done, not complete but significant.
 ##POA?
 
 Nothing....
+
+#6/24/2015
+
+##POA?
+
+1. Work on SDS is ongoing
+2. UI work is almost done? Styling is done.
+3. Ben and Trevor are planning to use same project in  multiple classes.
+4. They have been warned that this leads to a plagiarism claim by faculty and would lead to failure in multiple classes. (Joey and Magdy)
+
 
 
 

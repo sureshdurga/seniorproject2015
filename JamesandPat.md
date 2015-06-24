@@ -67,7 +67,7 @@ Love the demo, exactly what you said you were going to show.
 Good work you guys.
 #A
 
-##6/17/2015
+#6/17/2015
 
 Parsing is complete.
 
@@ -77,6 +77,21 @@ Parsing is complete.
 2. James is working on the picture for FB
 3. James is going to work on YouTube.
 
+#6/24/2015
+
+Pat is having surgery and is gone for 2 weeks. NO work is expected out of him.
+
+##POA done?
+VERY frustrating week of work...no as easy as expected.
+
+##POA?
+
+1. Twitter integration is being put off until Pat gets back.
+2. James will continue working on FB
+3. James is going to work on getting YouTube started.
+4. Work on Icons will also commence.
+
+Will see team in 2 weeks.
 
 
 

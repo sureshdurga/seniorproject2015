@@ -78,6 +78,16 @@ Based on todays presentations I would say #B+
 1. Becca is going to work on updating the pages to match the DB schema
 2. Ed will work on the DB calls and be able to pull ads
  
+#6/24/2015
+
+##POA done?
+
+All planned actions done.
+
+##POA?
+
+Pulling from the DB shall commence
+
  
 
 

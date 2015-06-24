@@ -39,3 +39,6 @@ Not much work done this week.
 
 AWOL - Grade #F
 
+#6/19/2015
+MIssed meeting.
+
