@@ -82,4 +82,14 @@ Stars and asteroids are being generated randomly in size
 4. Ad work will commence
 
 
+#6/26/2015
+
+##POA done?
+1. Work on fit needs to happen
+2. you cant add force without rigd body, more research needs to be done for further enhancements
+3. Ad work has commenced.
+
+##POA?
+1. Implment ads and get this done.
+2. Add another screen for high scores or show your scores screen 
 
