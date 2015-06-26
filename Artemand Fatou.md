@@ -39,6 +39,9 @@ Not much work done this week.
 
 AWOL - Grade #F
 
-#6/19/2015
-MIssed meeting.
+#6/26/2015
+MIssed meeting. This will be the third missed meeting.
+
+The syllabus clearly stipulates that after 4 missed meetings the stuent will be dropped from class. Please be advised.
+
 
