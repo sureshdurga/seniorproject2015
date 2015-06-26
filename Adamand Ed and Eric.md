@@ -66,7 +66,25 @@ Looking forward to your final product.
 2. Next button needs to appear after upload
 3. Point on the picture work will commence
 4. Open CV preprocessing algorith work will also commence
-5. Beastiry list view will be worked on
+5. Bestiary list view will be worked on
 6. Eric will work on the structure of the DB
 
+#6/26/2015
 
+##POA done?
+1. List view is working ( this will be the personal Bestiary)
+2. Pre-processing algorithm has been decided upon (human in the loop feature extracting something)
+3. PIcture quality is better now
+4. Next button is also there now
+5. Points are showing up but needed debugging
+6. DB is being implemented on the server, lots of research is also being done on design
+
+##POA?
+1. Ed will work on hash map or hash table for data transfer for the list view
+2. Ed will continue working on maps
+3. Finishing the pre-processing algo will be Adfam big job
+4. SVM will also be built
+5. WHat will be actually stored in the DB needs to be finalized
+6. Eric will finish implementation on the DB and also work on securrity
+7. Adam and Eric will work togetehr in populating the DB
+8. Conectivity will also be worked upon.
