@@ -61,3 +61,10 @@ Getting ready for Midterm presentation
 This was a good demo, it was nice to see everything that you have told me actually coming to life.
 The demo made sense.
 #A
+
+#6/26/2015
+
+##POA?
+
+1. Terrain work should be done
+2. Ennemies path finding will be complete
