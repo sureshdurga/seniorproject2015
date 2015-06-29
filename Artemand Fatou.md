@@ -42,6 +42,22 @@ AWOL - Grade #F
 #6/26/2015
 MIssed meeting. This will be the third missed meeting.
 
-The syllabus clearly stipulates that after 4 missed meetings the stuent will be dropped from class. Please be advised.
+The syllabus clearly stipulates that after 4 missed meetings the student will be dropped from class. Please be advised.
+
+#6/29/2015
+Meeting requested to present update on the project.
+
+##Done so far?
+
+1. DB is going to be done this week.
+2. PHP mY admin is also ste up and charlie has helped them trouble shoot things
+3. Card reader problems still exist, VM might be a solution.
+4. Demo app in Java to use the reader was tired but failed.
+5. Sever, PHP MY admin are working
+6. No progresss has been done o the reader front, many things have been "tried"
+
+
+
+
 
 
