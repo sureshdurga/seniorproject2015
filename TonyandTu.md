@@ -77,6 +77,12 @@
   2. Make commands more intuitive
   
  # 6/24/2015
- Ervything is on track. Will meet team in 2 weeks.
+ Everything is on track. Will meet team in 2 weeks.
+ 
+ #7/15/2015
+ 
+ Teamo needs to be put on the Raspeberry Pi and then the project is done.
+ 
+ 
 
  

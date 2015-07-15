@@ -91,6 +91,11 @@ All work completed that they set out to done
 2. Stats need to be added to the screens
 3. Highlighting needs to be done for the player at hand
 
+#7/15/2015
 
+1. Sprites are almost done.
+2. Combat is near finished
+3. Stats are not done yet
+4. Project has definitely fallen behind...
 
 

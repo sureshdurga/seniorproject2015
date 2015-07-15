@@ -114,3 +114,11 @@ Work is being done on everyting decided last week.
 3. Android should be done and functional by Bryan 
 4. Matt will be wotking on Geo location
 
+#7/15/2015
+
+1. Windows app has the "create page" nedcs to be done and so does find friends...
+2. Android app is still not done
+3. Project will be done by the end of the month.
+
+
+

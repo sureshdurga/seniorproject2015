@@ -80,6 +80,19 @@ Very good explanation of what your project does, this is what is impressive, bei
 1. need to add randomization to the 2D model
 2. 2D needs to become a 3D model
 
+#6/24/2015
+
+##POA done?
+1. 2D to 3D is done (mostly)
+2. Randomization is also complete.
+
+##POA ?
+
+1. Leaf generator work will commence
+2. First pass should be done to plug into unreal
+
+
+
 
 
 

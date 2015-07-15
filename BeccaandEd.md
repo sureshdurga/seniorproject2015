@@ -88,6 +88,13 @@ All planned actions done.
 
 Pulling from the DB shall commence
 
+#7/15/2015
+
+Project is done and all requirements have been met.
+
+
+
+
  
 
 
