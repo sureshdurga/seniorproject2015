@@ -81,5 +81,10 @@ Zac has been writing code  where Phyton is being converted to C
 1. Adam will make a model for AI
 2. Zac will work on content
 
+#7/15/2015
+
+1. No work on the project ina  couple of weeks, but only on the poster...
+2. Will work to have much done for next week.
+
 
 
